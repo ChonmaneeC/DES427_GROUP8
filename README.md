@@ -21,4 +21,4 @@ follow.
 may have.
 4. Demo the app on the final day of the class, no need to make PPT slides, but you may
 if you prefer.
-5.Remember to NOT put any keys or credentials on Github.
+5. Remember to NOT put any keys or credentials on Github.
